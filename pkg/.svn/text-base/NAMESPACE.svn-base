@@ -1,0 +1,21 @@
+importFrom("graphics", plot)
+
+exportClasses(
+	      "brinson",
+	      "brinsonMulti",
+              "regression",
+              "regressionMulti"
+              )
+
+exportMethods(
+              "summary",
+              "returns",
+              "exposure",
+              "show",
+              "plot"
+              )
+
+export(
+       "brinson",
+       "regress"
+       )
