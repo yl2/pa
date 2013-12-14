@@ -1,4 +1,5 @@
 importFrom("graphics", plot)
+import(ggplot2, methods)
 
 exportClasses(
 	      "brinson",
