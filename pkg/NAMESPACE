@@ -1,4 +1,5 @@
-importFrom("graphics", "stats", "formula", "lm", "model.matrix", plot)
+importFrom("graphics", plot)
+importFrom("stats", "formula", "lm", "model.matrix")
 import(ggplot2, methods, grid)
 
 exportClasses(

@@ -4,11 +4,11 @@ Date: 2022-05-14
 Title: Performance Attribution for Equity Portfolios
 Authors@R: c(person("Yang", "Lu", role = c("aut", "cre"),
 	       	 email = "yang.lu2014@gmail.com"),
-	person("David", "Kane", role = c("aut", "cre"),
+	person("David", "Kane", role = c("aut"),
 		 email = "dave.kane@gmail.com"))
 Author: Yang Lu and David Kane
 Maintainer: Yang Lu <yang.lu2014@gmail.com>
-Depends: grid, R (>= 2.10)
+Depends: R (>= 2.10)
 Imports: ggplot2, methods, grid
 Description: A package that provides tools for conducting performance attribution for equity portfolios. The package uses two methods: the Brinson method and a regression-based analysis.
 License: GPL-2
