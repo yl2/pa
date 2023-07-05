@@ -1,6 +1,6 @@
 Package: pa
-Version: 1.2-2
-Date: 2022-05-14
+Version: 1.2-3
+Date: 2023-07-05
 Title: Performance Attribution for Equity Portfolios
 Authors@R: c(person("Yang", "Lu", role = c("aut", "cre"),
 	       	 email = "yang.lu2014@gmail.com"),
