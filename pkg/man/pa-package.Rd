@@ -10,19 +10,6 @@
   attribution based on the Brinson model and the regression approach.
 
 }
-\details{
-  \tabular{ll}{
-    Package: \tab pa\cr
-    Type: \tab Package\cr
-    Version: \tab 1.2-2\cr
-    Date: \tab 2012-05-14\cr
-    Depends: \tab R (>= 2.10), methods, ggplot2, grid\cr
-    License: \tab GPL-2\cr
-    LazyLoad: \tab yes\cr
-  }
-
-}
-
 \author{
 
   Yang Lu <yang.lu2014@gmail.com>
